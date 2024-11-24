@@ -16,7 +16,7 @@ Este projeto utiliza o dataset *Africa Economic, Banking and Systemic Crisis Dat
 ## 🚀 Como Executar  
 1. Clone o repositório:  
   ```bash
-   git clone [link_do_repositorio]
+   git clone https://github.com/phaa/eda-africa-economic-banking-systemic-crisis.git
   ```
 
 2. Instale as dependencias:  
