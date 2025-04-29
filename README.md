@@ -1,41 +1,50 @@
-# Análise Exploratória de Dados: Crises Econômicas e Bancárias na África 🌍  
+# Exploratory Data Analysis: Economic and Banking Crises in Africa
 
-Este projeto utiliza o dataset *Africa Economic, Banking and Systemic Crisis Data*, disponível no Kaggle, para realizar uma análise exploratória de dados (EDA). O objetivo é identificar padrões e tendências relacionadas à frequência e distribuição de crises econômicas e bancárias em países africanos.  
+This project uses the *Africa Economic, Banking and Systemic Crisis Data* dataset, available on Kaggle, to perform an exploratory data analysis (EDA). The goal is to identify patterns and trends related to the frequency and distribution of economic and banking crises in African countries. This project was developed during an introductory data analysis course in the Technology in Internet Systems undergraduate program at IFRN.
 
-## 📈 Ferramentas Utilizadas  
-- **Python**: Linguagem principal para manipulação e visualização de dados.  
-- **Pandas**: Para tratamento e análise de dados.  
-- **Matplotlib e Seaborn**: Para criação de gráficos e visualizações detalhadas.  
-- **Jupyter Notebook**: Para organização e apresentação do código e resultados.  
+## Tools Used
 
-## 📋 Principais Análises  
-1. Frequência de crises ao longo das décadas.  
-2. Comparação entre crises bancárias e econômicas.  
-3. Análise de distribuição geográfica e temporal das crises.  
+* **Python**: Main language for data manipulation and visualization.
+* **Pandas**: For data processing and analysis.
+* **Matplotlib and Seaborn**: For creating detailed charts and visualizations.
+* **Jupyter Notebook**: For organizing and presenting the code and results.
 
-## 🚀 Como Executar  
-1. Clone o repositório:  
-  ```bash
-   git clone https://github.com/phaa/eda-africa-economic-banking-systemic-crisis.git
-  ```
+## Main Analyses
 
-2. Instale as dependencias:  
-  ```bash
-   pip install -r requirements.txt
-  ```
+1.  Frequency of crises across decades.
+2.  Comparison between banking and economic crises.
+3.  Analysis of the geographical and temporal distribution of crises.
+   
+## How to Run
 
-3. Abra o notebook Jupyter:
-  ```bash
-   jupyter notebook frequencia-e-distribuicao-crises.ipynb
-  ```
+1.  Clone the repository:
 
-## 📂 Estrutura do Repositório
-- frequencia-e-distribuicao-crises.ipynb: Notebook com a análise e os resultados.
-- requirements.txt: Arquivo com as dependências necessárias.
-- data/: Diretório para armazenar o dataset.
+    ```
+    git clone https://github.com/phaa/eda-africa-economic-banking-systemic-crisis.git
+    ```
 
-## 📝 Observações
-Este projeto tem fins acadêmicos e busca demonstrar como a análise de dados pode ser aplicada para entender eventos complexos.
+2.  Install the dependencies:
 
-## 📌 Referência
-- [Africa Economic, Banking and Systemic Crisis Data (Kaggle)](https://www.kaggle.com/datasets/chirin/africa-economic-banking-and-systemic-crisis-data/code)
+    ```
+    pip install -r requirements.txt
+    ```
+
+3.  Open the Jupyter notebook:
+
+    ```
+    jupyter notebook frequencia-e-distribuicao-crises.ipynb
+    ```
+
+## Repository Structure
+
+* frequencia-e-distribuicao-crises.ipynb: Notebook containing the analysis and results.
+* requirements.txt: File with the necessary dependencies.
+* data/: Directory to store the dataset.
+
+## Notes
+
+This project is for academic purposes and aims to demonstrate how data analysis can be applied to understand complex events.
+
+## Reference
+
+* [Africa Economic, Banking and Systemic Crisis Data (Kaggle)](https://www.kaggle.com/datasets/chirin/africa-economic-banking-and-syste
